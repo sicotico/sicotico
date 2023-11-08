@@ -69,16 +69,25 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sicotico&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=calm&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+<br clear="both">
+
+<div align="center">
+  <img height="400" src="https://luispuente.net/assets/img/lofi_avatar_400.png"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://linkedin.com/in/luispuentebayon" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
