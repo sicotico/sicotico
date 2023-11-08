@@ -31,7 +31,31 @@
 
 ###
 
-<h2 align="left">I play and work with</h2>
+<h2 align="left">Con lo que trabajo</h2>
+
+<br clear="both">
+
+<div align="center">
+  <!-- https://www.credly.com/badges/a1c7bebf-3686-4fb8-941d-35a0b2a6bb8b/public_url -->
+  <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" height="100" alt="terraform badge"  />
+  <img width="12" />
+  <!-- https://www.credly.com/badges/685ecf49-e0d1-42cc-a7f6-98cfef52c2c5/public_url -->
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="100" alt="aws badge"  />
+  <img width="12" />
+  <!-- https://www.credly.com/badges/8206f793-7fbf-4c01-a91a-25fa1f8ac1f7/public_url -->
+  <img src="https://images.credly.com/size/340x340/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" height="100" alt="PSM badge"  />
+  <img width="12" />
+  <!-- https://www.credly.com/badges/14e560ab-3551-4090-97f8-b27cadbe1dc3/public_url -->
+  <img src="https://images.credly.com/size/340x340/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" height="100" alt="PSPO badge"  />
+  <img width="12" />
+  <!-- https://www.credly.com/badges/b5ae13cd-245a-450e-9f23-defcb28afde9/public_url -->
+  <img src="https://images.credly.com/size/340x340/images/285339cc-675a-4b1a-bdd9-283868af2fc8/EXAM-Expert-AZ-303-600x600.png" height="100" alt="Azure A-303"  />
+</div>
+
+
+###
+
+<h2 align="left">Con lo que juego y a veces trabajo</h2>
 
 ###
 
