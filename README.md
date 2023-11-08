@@ -7,7 +7,17 @@
 
 <br clear="both">
 
-<p align="center">No se como has llegado aquí, pero mi nombre es Luis Puente, soy Arquitecto Cloud y aficionado a muchas cosas</p>
+<p align="center">No se como has llegado aquí, pero mi nombre es Luis Puente, soy Arquitecto Cloud en NTT Data y aficionado a muchas cosas</p>
+
+###
+
+<h2 align="left">Restos de mi adolescencia</h2>
+
+###
+
+<br clear="both">
+
+<p align="center">En su día me parecio chulo el nick de __sicotico__, en IRC tenia su toque y por supuesto lo escribía _SiCoTiCo__<br><br> Con el timepo se supone que lo debía de haber cmabiado por ser politicamente correcto. He compilado kernels de arquitecturas que ahora no quiero ver ni en pintura, optimizado linux incluso intente un linux from scratch y por supuesto procesos ITIL, este tipo de actividades no ayuda a pensar en tu imagen corporativa de adulto. </p>
 
 ###
 
@@ -17,7 +27,7 @@
 
 <br clear="both">
 
-<p align="center">Llevo la tecnología en la sangre de los 9 años<br>He sobrevivído a CPDs y baremetal, virtualización, RPAs y cloud.<br><br>Actualmente diseño soluciones cloud e híbridas. Aterrizo necesidades de negocio en las nuevas tecnologías Cloud , principalmente Azure</p>
+<p align="center">Llevo la tecnología en la sangre de los 9 años<br>He sobrevivído a CPDs y baremetal, virtualización, RPAs y cloud.<br><br>Actualmente diseño soluciones cloud e híbridas. Aterrizo necesidades de negocio en las nuevas tecnologías Cloud , principalmente Azure<br><br> Seamos realista  no desarrollo nada y como tengo mi web en Git-Pages  pue sno quería dejar esto feote. Así que ya tengo web basada en Jekyll, README de Github y si un día lo consigo una foto en la que salga guapo, pero de verdad de las que tus niños dice que guapo papá</p>
 
 ###
 
